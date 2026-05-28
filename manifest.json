@@ -1,0 +1,9 @@
+{
+  "name": "Benefits App",
+  "short_name": "Benefits",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f8fb",
+  "theme_color": "#176bff",
+  "icons": []
+}
